@@ -1,4 +1,4 @@
-## Hi there 👋
+# Утром когда я проснулся мне паказалось што я уже умный но я ашибся.
 
 <!--
 **pa4nisha/pa4nisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
